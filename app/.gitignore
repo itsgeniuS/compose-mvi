@@ -1,0 +1,6 @@
+/build
+/src/dev_/release/
+/src/sit_/debug/
+/src/sit_/release/
+/prod_/release/
+/prod_/debug/
